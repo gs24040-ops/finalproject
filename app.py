@@ -8,4 +8,4 @@ def main():
  server_port=port #Render가 포트 주면 그걸로 아니면 7860으로
  )
 if __name__ == "__main__":
- main
+ main()
